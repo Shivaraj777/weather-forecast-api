@@ -24,7 +24,3 @@ follow the steps for output
 3) d) in body we need to enter key and value
     After authorization header will be automatically generated when you send the request.
 
-
-4)Access tocken
-![227787690-243802b3-432b-41cc-9995-17437a3fcc87](https://user-images.githubusercontent.com/73180409/229243709-9fd45c59-25db-40a5-9a46-8e7739669784.png)
-
