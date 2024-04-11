@@ -10,13 +10,7 @@ Write a server by using SpringBoot Java and integrate Weather API from Rapid API
 4) Run the Project
 Run as-> Spring boot app
 
-# output of 2 API
-## API 1: Get the Weather forecast summary of Any city using API (RapidApiGetForecastSummaryByLocationName)
-
-
-
-## API 2: Get hourly Weather forecast details of Any city using API (RapidApiGetHourlyForecastByLocationName)
-
+# output
 
 follow the steps for output
 1) step1: Use default issuer for access tocken {https://dev-64151434.okta.com/oauth2/default}
